@@ -1,0 +1,3 @@
+# .editorconfig generator tool
+
+
