@@ -55,3 +55,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Added at 2018-10-25 21:33:50 +0700 by xb:
+gem "toml-rb", "~> 1.1"
