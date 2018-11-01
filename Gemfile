@@ -58,3 +58,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Added at 2018-10-25 21:33:50 +0700 by xb:
 gem "toml-rb", "~> 1.1"
+
+# Added at 2018-11-01 17:22:53 +0700 by xb:
+gem "editorconfig", "~> 0.2.2"
